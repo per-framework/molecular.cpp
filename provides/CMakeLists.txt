@@ -1,0 +1,2 @@
+add_conventional_library(molecular_v1)
+target_link_libraries(molecular_v1 PUBLIC intrinsics_v1 dumpster_v1)
